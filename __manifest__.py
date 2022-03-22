@@ -1,9 +1,9 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 # Part of BrowseInfo. See LICENSE file for full copyright and licensing details.
 
 {
 	'name': "Imagen del Producto en lineas de venta",
-	'version': "15.0.0.1",
+	'version': "15.0.0.2",
 	'category': "Sales",
 	'license': "AGPL-3",
 	'summary': "Mostrar imagen del producto en las lineas del pedido de venta así como en reporte.",
